@@ -1,0 +1,25 @@
+{
+  "habits": [
+    {
+      "id": "reading",
+      "name": "Read book",
+      "description": "Read for at least 30 minutes",
+      "unit": "minutes",
+      "goal": 30
+    },
+    {
+      "id": "swedish",
+      "name": "Learn Swedish",
+      "description": "Practice Swedish for at least 15 minutes",
+      "unit": "minutes",
+      "goal": 15
+    },
+    {
+      "id": "gtow",
+      "name": "Practice GTOW",
+      "description": "GTOW practice session",
+      "unit": "minutes",
+      "goal": 20
+    }
+  ]
+}
